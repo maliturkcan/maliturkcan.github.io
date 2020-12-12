@@ -1,0 +1,22 @@
+.. Benim Belgelerim documentation master file, created by
+   sphinx-quickstart on Thu Jan 30 13:59:37 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+
+
+Belgelerime Hoşgeldiniz
+=======================
+
+Merhaba bu benim ilk belgem. Adam gibi okuyun cahil kalmayın.
+
+Açıklama
+--------
+
+Şimdi sizlere mikro'dan son quizde nasıl kalınır onu anlatıcam.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: İçindekiler:
+
+   diger_sayfa
